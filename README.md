@@ -41,3 +41,25 @@ Requirement Analysis involves several critical activities that ensure a successf
 - **Requirement Analysis and Modeling:** Breaking down and structuring requirements to identify conflicts, dependencies, and priorities, often using models like data flow diagrams or UML.
 
 - **Requirement Validation:** Reviewing the documented requirements with stakeholders to ensure completeness, correctness, and feasibility before development begins.
+
+## Types of Requirements
+
+### Functional Requirements
+
+Functional requirements describe the specific behaviors or functions the system must perform. They define what the system should do to satisfy user needs.
+
+**Examples for a Booking Management System:**
+- Users must be able to register and log in securely.
+- The system should allow users to search for available properties by location and date.
+- Users must be able to book a property and receive a confirmation email.
+- Admins should be able to add, update, or remove property listings.
+
+### Non-functional Requirements
+
+Non-functional requirements specify how the system performs certain functions, focusing on qualities and constraints rather than behaviors.
+
+**Examples for a Booking Management System:**
+- The system should load the property search results within 2 seconds.
+- User data must be encrypted to ensure privacy and security.
+- The system should be available 99.9% of the time.
+- The platform should support up to 10,000 concurrent users without degradation in performance.
