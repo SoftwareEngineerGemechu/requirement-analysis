@@ -82,3 +82,31 @@ A **Use Case Diagram** is a visual representation used in requirement analysis t
 The diagram below represents a simplified use case model of the ALX Booking System. It includes the primary actors and the main interactions they have with the system.
 
 ![ALX Booking Use Case Diagram](alx-booking-uc.png)
+
+## Acceptance Criteria
+
+### What is Acceptance Criteria?
+
+**Acceptance Criteria** are predefined conditions that a product or feature must satisfy to be considered complete and acceptable by stakeholders. They are written from the end-user's perspective and define the boundaries, expectations, and success standards for a user story or feature.
+
+### Importance of Acceptance Criteria in Requirement Analysis
+
+- ✅ **Clarifies Requirements:** Acceptance criteria help translate broad requirements into specific, testable conditions.
+- 💬 **Improves Communication:** They provide a shared understanding between stakeholders, developers, and testers.
+- 🔍 **Guides Testing:** Clear criteria ensure consistent validation and testing of the feature.
+- 🔁 **Supports Agile Processes:** In agile methodologies, acceptance criteria are used to determine when a user story is done and ready for review.
+
+### Example: Acceptance Criteria for the Checkout Feature
+
+**User Story:** As a guest, I want to securely check out after selecting a property so that I can complete my booking.
+
+**Acceptance Criteria:**
+1. ✅ The guest must be logged in to proceed with the checkout process.
+2. ✅ The system must display a summary of the selected property, booking dates, and total price.
+3. ✅ The user must be able to enter payment details or select a saved payment method.
+4. ✅ The system must validate payment information before submission.
+5. ✅ A confirmation message must be displayed after successful payment.
+6. ✅ The guest must receive a booking confirmation email with details.
+7. ✅ If payment fails, the user must receive an error message and be able to retry.
+
+Acceptance criteria help ensure that the **Checkout** feature meets user needs and aligns with the system’s functionality and business rules.
