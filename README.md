@@ -63,3 +63,22 @@ Non-functional requirements specify how the system performs certain functions, f
 - User data must be encrypted to ensure privacy and security.
 - The system should be available 99.9% of the time.
 - The platform should support up to 10,000 concurrent users without degradation in performance.
+
+## Use Case Diagrams
+
+### What is a Use Case Diagram?
+
+A **Use Case Diagram** is a visual representation used in requirement analysis to illustrate the functional interactions between users (actors) and a system. It helps stakeholders understand the high-level behavior of the system from the user's perspective.
+
+### Benefits of Use Case Diagrams
+
+- 🧩 Clearly defines system boundaries and user roles
+- 🗣 Facilitates communication between stakeholders, developers, and designers
+- 🧪 Helps identify functional requirements early in the development process
+- 🔄 Encourages iteration and feedback
+
+### Use Case Diagram: ALX Booking System
+
+The diagram below represents a simplified use case model of the ALX Booking System. It includes the primary actors and the main interactions they have with the system.
+
+![ALX Booking Use Case Diagram](alx-booking-uc.png)
